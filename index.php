@@ -59,7 +59,7 @@
                 หลงๆลืมๆ โดยเฉพาะเหมาะมากสำหรับคนที่มองหาวิธีการรักษาด้วยธรรมชาติ ไม่ต้องรับประทานยาที่เสี่ยงต่อผลข้างเคียง
               </p>
             </div>
-            <a class="btn btn-xl u-btn-primary g-font-size-default" href="#!">สั่งซื้อ / สอบถาม</a>
+            <a class="btn btn-xl u-btn-primary g-font-size-default" href="#contact-purchase">สั่งซื้อ / สอบถาม</a>
           </div>
         </div>
       </section>
@@ -444,7 +444,7 @@
                 <!-- End Icon Blocks -->
               </div>
               <div class="text-center">
-                <a class="btn btn-xl u-btn-primary g-font-size-default" href="#!">สั่งซื้อ</a>
+                <a class="btn btn-xl u-btn-primary g-font-size-default" href="#contact-purchase">สั่งซื้อ</a>
               </div>
             </div>
           </div>
@@ -492,7 +492,7 @@
                 <!-- End Icon Blocks -->
               </div>
               <div class="text-center">
-                <a class="btn btn-xl u-btn-primary g-font-size-default" href="#!">สั่งซื้อ</a>
+                <a class="btn btn-xl u-btn-primary g-font-size-default" href="#contact-purchase">สั่งซื้อ</a>
               </div>
             </div>
           </div>
@@ -513,7 +513,7 @@
       <!-- End Promo Block -->
 
       <!-- Section Intro -->
-      <section class="container g-pt-60 g-pb-0">
+      <section id="contact-purchase" class="container g-pt-60 g-pb-0">
         <div class="row no-gutters u-shadow-v21 g-mt-minus-100">
           <div class="col-md-4">
             <!-- Icon Blocks -->
