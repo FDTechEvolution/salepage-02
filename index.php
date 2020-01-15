@@ -503,53 +503,38 @@
       <!-- Promo Block -->
       <section class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll loaded dzsprx-readyall " data-options='{direction: "fromtop", animation_duration: 25, direction: "reverse"}'>
         <!-- Parallax Image -->
-        <div class="dzsparallaxer--target w-100 u-bg-overlay g-bg-img-hero g-bg-white-opacity-0_0--after" style="height: 160%; background-image: url(assets/img/bg/bg-promo-01.jpg);"></div>
+        <div class="dzsparallaxer--target w-100 u-bg-overlay g-bg-img-hero g-bg-white-opacity-0_0--after" style="height: 120%; background-image: url(assets/img/bg/bg-promo-01.jpg);"></div>
         <!-- End Parallax Image -->
 
         <!-- Promo Block Content -->
-          <div class="container u-bg-overlay__inner text-center g-py-200"></div>
+          <div class="container u-bg-overlay__inner text-center g-py-160"></div>
         <!-- Promo Block Content -->
       </section>
       <!-- End Promo Block -->
 
       <!-- Section Intro -->
-      <section class="container g-pt-60 g-pb-40">
-        <div class="row no-gutters u-shadow-v21 g-mt-minus-150">
+      <section class="container g-pt-60 g-pb-0">
+        <div class="row no-gutters u-shadow-v21 g-mt-minus-100">
           <div class="col-md-4">
             <!-- Icon Blocks -->
-            <div class="g-brd-around--md g-brd-gray-light-v4 g-bg-white text-center g-pa-10 g-px-10--lg g-py-10--lg min-height-1_5">
-              <span class="d-block g-color-gray-dark-v4 g-font-size-40">
-                <i class="fa fa-mobile"></i>
-              </span>
-              <h3 class="h5 g-color-black g-mb-10">โทรศัพท์</h3>
-              <a href="tel:0825982085"><p class="g-color-gray-dark-v4">082-598-2085</p></a>
-              <div class="d-inline-block g-width-40 g-brd-bottom g-brd-gray-dark-v5 g-my-15"></div>
+            <div class="g-brd-around--md g-bg-white text-center g-pa-10 g-px-10--lg g-py-10--lg" style="border-radius: 20px 0;">
+              <a href="tel:0825982085" style="color: #fff;"><img class="img-fluid" src="assets/img/qinca-tel_bt.png"></a>
             </div>
             <!-- End Icon Blocks -->
           </div>
 
           <div class="col-md-4">
             <!-- Icon Blocks -->
-            <div class="g-brd-around--md g-brd-gray-light-v4 g-bg-white text-center g-pa-10 g-px-10--lg g-py-10--lg min-height-1_5">
-              <span class="d-block g-color-gray-dark-v4 g-font-size-40 g-mb-5">
-                <img style="width: 40px; opacity: 0.5;" src="assets/img/Line_A.png">
-              </span>
-              <h3 class="h5 g-color-black g-mb-10">LINE</h3>
-              <a href="https://line.me/R/ti/p/%40027xszut" target="_blank"><p class="g-color-gray-dark-v4">LINE @</p></a>
-              <div class="d-inline-block g-width-40 g-brd-bottom g-brd-gray-dark-v5 g-my-15"></div>
+            <div class="g-brd-around--md g-bg-white text-center g-pa-10 g-px-10--lg g-py-10--lg">
+              <a href="https://line.me/R/ti/p/%40027xszut" style="color: #fff;" target="_blank"><img class="img-fluid" src="assets/img/qinca-ln_bt.png"></a>
             </div>
             <!-- End Icon Blocks -->
           </div>
 
           <div class="col-md-4">
             <!-- Icon Blocks -->
-            <div class="g-brd-around--md g-brd-gray-light-v4 g-bg-white text-center g-pa-10 g-px-10--lg g-py-10--lg min-height-1_5">
-              <span class="d-block g-color-gray-dark-v4 g-font-size-40">
-                <i class="fa fa-facebook-official"></i>
-              </span>
-              <h3 class="h5 g-color-black g-mb-10">FACEBOOK</h3>
-              <a href="https://www.facebook.com/QIncaOilThai/" target="_blank"><p class="g-color-gray-dark-v4">Q Inca Oil Thailand - น้ำมันสกัดเย็น ลดเบาหวาน ความดัน</p></a>
-              <div class="d-inline-block g-width-40 g-brd-bottom g-brd-gray-dark-v5 g-my-15"></div>
+            <div class="g-brd-around--md g-bg-white text-center g-pa-10 g-px-10--lg g-py-10--lg" style="border-radius: 0 20px;">
+              <a href="https://www.facebook.com/QIncaOilThai/" style="color: #fff;" target="_blank"><img class="img-fluid" src="assets/img/qinca-fb_bt.png"></a>
             </div>
             <!-- End Icon Blocks -->
           </div>
@@ -563,73 +548,57 @@
           <div class="col-md-2"></div>
           <div class="col-md-8 g-mb-40">
             <div class="text-center u-heading-v8-2 g-mb-25">
-              <h2 class="h1 text-uppercase u-heading-v8__title g-font-weight-700 g-font-size-26 g-mb-10 g-color-primary font-family-athiti">สั่งซื้อ</h2>
+              <h2 class="h1 text-uppercase u-heading-v8__title g-font-weight-700 g-font-size-26 g-mb-10 g-color-primary font-family-athiti">สั่งซื้อน้ำมันถั่วดาวอินคา</h2>
               <div class="d-inline-block g-width-60 g-height-1 g-bg-black mb-2"></div>
             </div>
 
-            <form>
-              <div class="row">
-                <div class="col-md-6 form-group g-color-gray-dark-v5 g-mb-30">
-                  <input id="inputGroup1_1" class="form-control g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 g-brd-primary--hover g-rounded-3 g-px-10 g-py-13" type="text" placeholder="ชื่อผู้รับ">
-                </div>
+            <form name="purchase-form" id="purchase-form" method="POST">
+                <div class="row">
+                  <div class="col-md-12 form-group g-mb-20 contact-display-inline-flex">
+                      <label class="g-color-gray-dark-v2 label-set-center-middle g-width-60">สินค้า :</label>
+                      <select name="product" id="product" class="form-control g-brd-gray-light-v4 g-brd-primary--focus rounded-3">
+                          <option value="คิว อิน คา : 1 แถม 1">1 แถม 1 : 890.-</option>
+                          <option value="คิว อิน คา : 3 แถมสบู่ 1">3 กระปุก (แถมฟรี! สบู่ 1 ก้อน) : 1,180.-</option>
+                          <option value="คิว อิน คา : 5 แถมสบู่ 2">5 กระปุก (แถมฟรี! สบู่ 2 ก้อน) : 1,900.-</option>
+                          <option value="คิว อิน คา : 5 แถม 1 กระปุก">5 กระปุก (แถมฟรี! 1 กระปุก) : 1,990.-</option>
+                          <option value="คิว อิน คา : 6 แถมสบู่ 2">6 กระปุก (แถมฟรี! สบู่ 2 ก้อน) : 2,280.-</option>
+                          <option value="คิว อิน คา : 9 แถมสบู่ 3">9 กระปุก (แถมฟรี! สบู่ 3 ก้อน) : 3,380.-</option>
+                          <option value="คิว อิน คา : 12 แถมสบู่ 3">12 กระปุก (แถมฟรี! สบู่ 3 ก้อน) : 4,380.-</option>
+                      </select>
+                  </div>
+                  <div class="col-md-6 form-group g-mb-20 contact-display-inline-flex">
+                      <label class="g-color-gray-dark-v2 label-set-center-middle g-width-70">ชื่อผู้รับ :</label>
+                      <input class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="text" name="fullname" id="fullname" placeholder="ชื่อ-นามสกุล">
+                  </div>
 
-                <div class="col-md-6 form-group g-color-gray-dark-v5 g-mb-30">
-                  <input id="inputGroup1_2" class="form-control g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 g-brd-primary--hover g-rounded-3 g-px-10 g-py-13" type="tel" placeholder="หมายเลขโทรศัพท์ (ใส่เฉพาะตัวเลขเท่านั้น)">
-                </div>
+                  <div class="col-md-6 form-group g-mb-20 contact-display-inline-flex">
+                      <label class="g-color-gray-dark-v2 label-set-center-middle g-width-60">โทร :</label>
+                      <input class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="tel" name="mobile" id="mobile">
+                  </div>
 
-                <div class="col-md-12 form-group g-color-gray-dark-v5 g-mb-30">
-                  <select id="inputGroup1_3" class="form-control g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 g-brd-primary--hover g-rounded-3 g-px-10" style="height: 3.3rem;">
-                    <option style="padding: 10px;" value="">เลือกรายการสินค้า</option>
-                    <option value="คิว อิน คา : 1 แถม 1">1 แถม 1 : 890.-</option>
-                    <option value="คิว อิน คา : 3 แถมสบู่ 1">3 กระปุก (แถมฟรี! สบู่ 1 ก้อน) : 1,180.-</option>
-                    <option value="คิว อิน คา : 5 แถมสบู่ 2">5 กระปุก (แถมฟรี! สบู่ 2 ก้อน) : 1,900.-</option>
-                    <option value="คิว อิน คา : 6 แถมสบู่ 2">6 กระปุก (แถมฟรี! สบู่ 2 ก้อน) : 2,280.-</option>
-                    <option value="คิว อิน คา : 9 แถมสบู่ 3">9 กระปุก (แถมฟรี! สบู่ 3 ก้อน) : 3,380.-</option>
-                    <option value="คิว อิน คา : 12 แถมสบู่ 3">12 กระปุก (แถมฟรี! สบู่ 3 ก้อน) : 4,380.-</option>
-                  </select>
+                  <div class="col-md-12 form-group g-mb-20 contact-display-inline-flex">
+                      <label class="g-color-gray-dark-v2 label-set-center-middle g-width-60">ที่อยู่ :</label>
+                      <textarea class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15" rows="5" name="address" id="address" placeholder="บ้านเลขที่ ถนน ซอย อาคาร หมู่บ้าน ตำบล อำเภอ จังหวัด รหัสไปรษณีย์"></textarea>
+                  </div>
+                  <div class="col-md-12 form-group g-mb-40 contact-display-inline-flex">
+                      <label class="g-color-gray-dark-v2 label-set-center-middle g-width-80">หมายเหตุ :</label>
+                      <textarea class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15" rows="5" name="description" id="description" placeholder="รายละเอียด / หมายเหตุ (ถ้ามี)"></textarea>
+                  </div>
                 </div>
+                <input type="hidden" name="redirect" id="redirect" value="https://chepose.wesales.online/thankyou.php"/>
+                <input type="hidden" name="lineid" id="lineid" value=""/>
+                <input type="hidden" name="sms" id="sms" value="1"/>
 
-                <div class="col-md-12 form-group g-color-gray-dark-v5 g-mb-30">
-                  <textarea id="inputGroup1_4" class="form-control g-resize-none g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 g-brd-primary--hover g-rounded-3 g-px-10 g-py-13" rows="6" placeholder="ที่อยู่ : บ้านเลขที่ ถนน ซอย อาคาร หมู่บ้าน ตำบล อำเภอ จังหวัด รหัสไปรษณีย์"></textarea>
+                <div class="col-md-12 text-center">
+                  <button class="btn u-btn-primary btn-lg rounded-3 g-py-12 g-px-20" type="submit" role="button" disabled="" id="bt-purchase-form-submit">ส่งข้อมูลการสั่งซื้อ</button>
                 </div>
-
-                <div class="col-md-12 form-group g-color-gray-dark-v5 g-mb-30">
-                  <textarea id="inputGroup1_5" class="form-control g-resize-none g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 g-brd-primary--hover g-rounded-3 g-px-10 g-py-13" rows="4" placeholder="รายละเอียด / หมายเหตุ (ถ้ามี)"></textarea>
-                </div>
-              </div>
-
-              <div class="text-center">
-                <button class="btn u-btn-primary btn-md text-uppercase g-font-weight-700 g-font-size-12 g-rounded-3 g-px-40 g-py-15 mb-0" type="submit" role="button">ส่งข้อมูล</button>
-              </div>
             </form>
           </div>
         </div>
       </section>
       <!-- End Section Contact -->
 
-      <footer>
-        <div class="g-color-gray-dark-v5 g-theme-bg-gray-dark-v3">
-          <div class="container">
-            <div class="text-center text-md-left g-brd-top g-brd-gray-dark-v2 g-py-20">
-              <div class="row">
-                <div class="col-md-6 d-flex align-items-center g-mb-15 g-mb-0--md">
-                  <p class="w-100 mb-0">
-                    Copyright 2019 Qincaoil.com All Rights Reserved
-                  </p>
-                </div>
-
-                <div class="col-md-6">
-                  <ul class="list-inline float-md-right mb-0">
-                    <li class="list-inline-item g-mr-10">
-                      <a class="u-icon-v2 g-width-35 g-height-35 g-font-size-16 g-color-gray-light-v1 g-color-white--hover g-bg-primary--hover g-brd-gray-dark-v2 g-brd-primary--hover g-rounded-5" href="https://www.facebook.com/QIncaOilThai/" target="_blank"><i class="fa fa-facebook"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </footer>
+      <div id="sec-footer"></div>
 
       <a class="js-go-to u-go-to-v1" href="#!"
          data-type="fixed"
@@ -666,6 +635,7 @@
     <script src="https://assets.wesales.online/js/components/hs.carousel.js"></script>
     <script src="https://assets.wesales.online/js/components/hs.go-to.js"></script>
     <script src="https://assets.wesales.online/js/components/hs.onscroll-animation.js"></script>
+    <script src="https://assets.wesales.online/js/footer-v1.js"></script>
 
     <!-- JS Customization -->
     <script src="assets/js/custom.js"></script>
@@ -709,4 +679,8 @@
       });
     </script>
   </body>
+
+  <script src="https://assets.wesales.online/js/purchase-form-validation.js"></script>
+  <script src="https://assets.wesales.online/js/purchase-process.js"></script>
+
 </html>
